@@ -1,0 +1,18 @@
+<style>
+#khung{ width:1020px; margin:auto;}
+#top{width:100%; background-color:#FF9; min-height:100px;}
+#menu{width:100%; background-color:#FF9; min-height:25px;}
+#laptop{width:100%; background-color:#FF9;}
+#maytinhbang{width:100%; background-color:#FF9; min-height:100px;}
+#bottom{width:100%; background-color: #C0F; min-height:100px; clear:both;}
+.menu{ float:left; text-align:center;}
+a:link{
+	text-decoration: none;
+}
+.sanpham{width:200px; float:left; margin-right:4px; text-align:center;}
+#maytinhbang{clear:both;}
+.tieude{
+	font-size: 24px;
+	font-weight: bold;
+}
+</style>
